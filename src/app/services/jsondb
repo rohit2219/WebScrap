@@ -1,0 +1,21 @@
+{
+"TSLA":{
+		"compname": "tesla motor corp",
+		"bond": "Testla Motor corp 10 year bond",
+		"price": "102",
+		"convexity": "0.52"   
+	},
+"MSFT":{
+		
+		"compname": "Microsoft",
+		"bond": "Testla Motor corp  4 yr Microsoft year bond",
+		"price": "110",
+		"convexity": "0.9"    
+	},
+"TOYO":	{
+		"compname": "Toyota Motor Corp",
+		"bond": "Toyota motors 15 yr year bond",
+		"price": "99",
+		"convexity": "0.02"      
+	}
+}
