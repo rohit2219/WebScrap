@@ -1,8 +1,0 @@
-<div> *ngFor = "let user of users">
-  <li class ="list-group-item ">Name: {{ user.name }}
-    </li>
-  </div>
-
-<form id="searchForm1" form(submit)="getTicker()"  >
-  LessonComponentsSearch-TickerOrWebsite: <input type="text"> <input type="submit"> 
-</form>
